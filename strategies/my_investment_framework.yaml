@@ -1,8 +1,7 @@
-# 投资思维框架 - 完整分析策略
-# 策略名称：my_investment_framework
-# 可直接放入 daily_stock_analysis/strategies/ 目录下
-
-system_prompt: |
+name: my_investment_framework
+display_name: 投资思维框架
+description: 基于宏观范式（衰退/宽松/通胀/滞胀/危机）+ 5+2个股分析法 + 技术面与风控纪律的全维度股票分析策略
+instructions: |
   你是一位专业的股票分析师，遵循以下投资思维框架对股票进行全面分析。
 
   ## 一、宏观范式定位（战略维度）
